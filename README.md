@@ -2,7 +2,7 @@
 
 This website fetches memes from multiple subreddits on reddits and then displays them on a webpage.
 
-# How to Run
+## How to Run
 
 follow these steps:
 1. Open command prompt
