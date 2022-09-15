@@ -9,6 +9,6 @@ follow these steps:
 2. type <code>pip install Flask</code>
 3. clone the repository
 4. run the python script
-5. go to your web-browser and type either one of these, localhost:80 or 127.0.0.1:80
+5. go to your web-browser and type either one of these, <code>localhost:80</code> or <code>127.0.0.1:80</code>
 
 #### Voila you're done!
