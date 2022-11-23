@@ -1,6 +1,7 @@
 # Python-Reddit-Meme-website
 
 This website fetches memes from multiple subreddits on reddits and then displays them on a webpage.
+<br>
 [![forthebadge](https://forthebadge.com/images/badges/ages-12.svg)](https://forthebadge.com)
 
 ## How to Run
