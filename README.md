@@ -3,6 +3,8 @@
 This website fetches memes from multiple subreddits on reddits and then displays them on a webpage.
 <br>
 [![forthebadge](https://forthebadge.com/images/badges/ages-12.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 
 ## How to Run
 
